@@ -1,0 +1,3 @@
+[{“ime”: ”Marko”, “prezime”:”Markovic”, “godina”: 2, “prosjek”: 8.6 }, {“ime”: ”Boris”,
+“prezime”:”Boricic”, “godina”: 3, “prosjek”: 7.9 }, {“ime”: ”Novak”, “prezime”: ”Novovic”,
+“godina”: 3, “prosjek”: 6.9 }]
